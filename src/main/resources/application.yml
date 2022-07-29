@@ -1,0 +1,7 @@
+micronaut:
+  application:
+    name: mnFormUrlencodedJackson
+netty:
+  default:
+    allocator:
+      max-order: 3
