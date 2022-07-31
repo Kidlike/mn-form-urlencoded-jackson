@@ -4,6 +4,7 @@ import static org.assertj.core.api.Assertions.assertThat;
 
 import io.micronaut.test.extensions.junit5.annotation.MicronautTest;
 import jakarta.inject.Inject;
+import mn.form.urlencoded.jackson.SampleClient.SampleDto;
 import org.junit.jupiter.api.Test;
 
 @MicronautTest
